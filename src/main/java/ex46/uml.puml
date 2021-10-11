@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class main {
++main(String[] args)
+sort(String[] key, int[] val)
+}
+
+@enduml

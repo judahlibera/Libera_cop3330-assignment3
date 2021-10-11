@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class main {
++main(String[] args)
++generatemetadata(File index, String a, String t)
+}
+
+
+@enduml

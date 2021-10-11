@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+class main {
++main(String[] args)
++gal(Scanner sc)
+}
+
+@enduml

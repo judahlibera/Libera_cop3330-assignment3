@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class main {
++main(String[] args)
++puttogether(ArrayList<String>names)
+}
+
+@enduml
